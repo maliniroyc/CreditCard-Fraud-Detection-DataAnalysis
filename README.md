@@ -154,7 +154,9 @@ To detect fraudulent credit card transactions using data analysis and visualizat
 ✅ **Deliverable:**
 
 * `1-page summary PDF` with insights, recommendations
-* `Power BI snapshots` (optional)
+* `Power BI snapshots`
+  
+![Project Dashboard ](https://github.com/user-attachments/assets/c8f8b8ec-2e53-4ee5-925e-0b6bdbf27aed)
 
 ---
 
