@@ -1,8 +1,7 @@
 # 💳 Credit Card Fraud Detection
 
 ## 🔍 Objective
-
-To detect fraudulent credit card transactions using data analysis and visualization techniques. The project covers data collection, cleaning, exploratory data analysis (EDA), and building interactive Power BI dashboards.
+Develop a model to identify fraudulent credit card transactions in real-time. To detect fraudulent credit card transactions using data analysis and visualization techniques. The project covers data collection, cleaning, exploratory data analysis (EDA), and building interactive Power BI dashboards.
 
 ---
 
