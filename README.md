@@ -165,8 +165,11 @@ Develop a model to identify fraudulent credit card transactions in real-time. To
 | ---------------------- | ---------------------------------------- |
 | `creditcard.csv`       | Original dataset from Kaggle             |
 | `cleaned_dataset.csv`  | Cleaned dataset used for visualization   |
-| `eda_notebook.ipynb`   | Exploratory data analysis in Jupyter     |
-| `fraud_dashboard.pbix` | Power BI interactive dashboard           |
+| `CC_Project.sql`  | Original Dataset import into Postgresql   |
+| `creditcard_project.ipynb`   | Exploratory data analysis in Jupyter     |
+| `CreditCardFraudDetection_Dashboard.pbix` | Power BI interactive dashboard           |
 | `README.md`            | GitHub project documentation (this file) |
 
+## Author
+Malini Roy Choudhury - Data Analyst | Freelancer
 
