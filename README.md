@@ -118,7 +118,7 @@ Develop a model to identify fraudulent credit card transactions in real-time. To
 
 ✅ **Deliverables:**
 
-* EDA Notebook (`.ipynb`)
+* creditcard_project(`.ipynb`)
 * Power BI file (`.pbix`)
 * Summary: Clean, imbalanced dataset with high fraud-risk anomaly zones
 
