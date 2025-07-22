@@ -155,7 +155,9 @@ Develop a model to identify fraudulent credit card transactions in real-time. To
 * `1-page summary PDF` with insights, recommendations
 * `Power BI snapshots`
   
-![Project Dashboard ](https://github.com/user-attachments/assets/c8f8b8ec-2e53-4ee5-925e-0b6bdbf27aed)
+
+![dashboard](https://github.com/user-attachments/assets/43d96f8c-fa23-42a1-9e7f-7b3669c2ee47)
+
 
 ---
 
