@@ -146,16 +146,14 @@ Develop a model to identify fraudulent credit card transactions in real-time. To
 
 ### 🧳️ Next Steps
 
-* Build **predictive ML model** (e.g., logistic regression, XGBoost)
+* Build **predictive ML model** 
 * Automate **Power BI data refresh**
 * Integrate with **live transaction feeds**
 
 ✅ **Deliverable:**
 
-* `1-page summary PDF` with insights, recommendations
 * `Power BI snapshots`
   
-
 ![dashboard](https://github.com/user-attachments/assets/43d96f8c-fa23-42a1-9e7f-7b3669c2ee47)
 
 
