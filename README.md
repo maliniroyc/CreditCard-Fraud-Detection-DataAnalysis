@@ -1,18 +1,18 @@
 # 💳 Credit Card Fraud Detection
 
-## 🔍 Objective
+## Objective
 Develop a model to identify fraudulent credit card transactions in real-time. To detect fraudulent credit card transactions using data analysis and visualization techniques. The project covers data collection, cleaning, exploratory data analysis (EDA), and building interactive Power BI dashboards.
 
 ---
 
-## 📁 Task 1: Dataset Used
+## Task 1: Dataset Used
 
 * **Dataset Name:** Credit Card Fraud Detection
 * **Source:** Kaggle
 * **Link:** [Kaggle Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 * **Format:** `.csv`
 
-### 📝 Description
+### Description
 
 * **Rows:** 284,807
 * **Columns:** 31
@@ -22,7 +22,7 @@ Develop a model to identify fraudulent credit card transactions in real-time. To
 
 ---
 
-## 🛠️ Task 2: Data Collection and Preparation
+##  Task 2: Data Collection and Preparation
 
 **Tools Used:** PostgreSQL, Python (Pandas), Power BI
 
@@ -126,25 +126,25 @@ Develop a model to identify fraudulent credit card transactions in real-time. To
 
 ## ✅ Task 4: Conclusion and Recommendations
 
-### 🔍 Key Insights Summary
+###  Key Insights Summary
 
 * Dataset is **heavily imbalanced**
 * Fraudulent transactions tend to occur in small amounts and within narrow time frames
 * Strong correlations found in certain PCA components
 
-### 🧠 Business Implications
+### Business Implications
 
 * Even small-value frauds can accumulate into significant losses
 * Real-time systems should prioritize transactions matching fraud profiles
 
-### 📌 Recommendations
+### Recommendations
 
 1. **Deploy anomaly detection models** using top correlated features
 2. **Monitor small transactions more closely**
 3. **Use real-time dashboards** in Power BI to trigger fraud alerts
 4. **Update dataset regularly** and retrain models
 
-### 🧳️ Next Steps
+### Next Steps
 
 * Build **predictive ML model** 
 * Automate **Power BI data refresh**
@@ -159,7 +159,7 @@ Develop a model to identify fraudulent credit card transactions in real-time. To
 
 ---
 
-## 📦 Files in This Repository
+## Files in This Repository
 
 | File Name              | Description                              |
 | ---------------------- | ---------------------------------------- |
